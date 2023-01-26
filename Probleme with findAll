@@ -1,0 +1,2 @@
+Hello , 
+I get a problem when i use findAll in redis om version 0.6.3 . I get an empty iterable and before that even if  i have  a data in database yet . I test findById  and i have the truth result . So the connection with database is done .
